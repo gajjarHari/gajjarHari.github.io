@@ -37,7 +37,7 @@ Once the file is uploaded and commited, we can make as many changes to the file 
 
  1. Once the file is uploaded, go to settings and then to pages as shown in this image. ![](Twelth.png)
 
- 2. Navigate to Branch after that. ![]("files for README"/TwelthBox.png)
+ 2. Navigate to Branch after that. ![](files_for_README/TwelthBox.png)
 
  3. Click on the box that says none, and from the options given, click on main. The click on the save button to finish.
  ![](gif_me.gif)
