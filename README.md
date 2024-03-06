@@ -35,12 +35,12 @@ Once the file is uploaded and commited, we can make as many changes to the file 
 
 #### 3. Use Github to create a static website
 
- 1. Once the file is uploaded, go to settings and then to pages as shown in this image. ![](Twelth.png)
+ 1. Once the file is uploaded, go to settings and then to pages as shown in this image. ![](files_for_README/Twelth.png)
 
  2. Navigate to Branch after that. ![](files_for_README/TwelthBox.png)
 
  3. Click on the box that says none, and from the options given, click on main. The click on the save button to finish.
- ![](gif_me.gif)
+ ![](files_for_README/gif_me.gif)
 
 
 
