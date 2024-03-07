@@ -1,27 +1,25 @@
 # Creating a static Website
 ### Purpose:
-1. Describe how to create a static website using Markdown and github.
+1. Describe how to create a static website using Markdown and Github.
 2. Explain why the steps shows are important in creating a website.
 ### Prerequisites:
 You must be able to create a text file using Markdown.
 ### Instuctions:
 
-#### 1. Use Lightweight Markup Language to create Markdown file
-Create a Markdown file which you want to show on the website.
+#### 1. Use Lightweight Markup language to create a text file of your linking
+Create a text file which you want to show on the website. Use Markdown to create this file.
 
-Lightweight Markup is important as it is the key to creating a static website. Website generators create the website by showing what is on that file. Markdown is a Lighweight Markup language. It is widely used by many static site generators and it is easy to use.
+Lightweight Markup is important as it is the key to creating a static website. The reason being static website generator will create a website for you but it does not know what to show on there. Website generators will create the website and show what you write on your text file that you supplied it with.
 
-It is greate because it is: 
+Etter talks in his book about the importance of using lightweight markup. He shows how complex it can be to write same sentences with code that can be easily writen using a lightweight markup language.
+
+What makes it greate is that it is: 
 
 * easy to learn
 * human readable and
 * requires no coding
 
-Etter talks in his book about the importance of using lightweight markup. He shows how complex it can be to write same sentences with code that can be easily writen using a lightweight markup language. Markdown files are easy to create and require no prior knowledge of any language.
-
-
-Here is a website that can help you create a [markdown](https://commonmark.org/help/tutorial/) file.
-
+Markdown is a lightweight markup language. Markdown is extremly popular and widely used by static website generators. It is also quite easy to use as well. Since it is a lightweight markup language, creating a text file will be easy and fast.
 
 #### 2. Use Github as your version control system
 
@@ -39,9 +37,43 @@ Once the file is uploaded and commited, we can make as many changes to the file 
 
  2. Navigate to Branch after that. ![](files_for_README/TwelthBox.png)
 
- 3. Click on the box that says none, and from the options given, click on main. The click on the save button to finish.
+ 3. Click on the box that says none, and from the options given, click on main. Then click on the save button to finish.
  ![](files_for_README/gif_me.gif)
 
+This will now start to create your website. It may take few minutes to several minutes. Once it is done, you can visit your website by searching ***username**.github.io*. Note that you must change username with your username that you chose for your repository.
 
 
-#### 4.
+#### 4. Add a theme to your website
+Create a file named ***_config.yml***. Make sure to have the underscore _ in front of the name as shown here. Then you can go to Github pages [supported themes](https://pages.github.com/themes/) to find yourself a theme. To add the theme I used follow the steps below.
+
+ * Once the file is created, add *theme: jekyll-theme-modernist* in it and then save the file by commiting. Now your file has theme to it. Similar to my website theme below
+
+![](files_for_README/GIFMaker_me.gif)
+
+Adding a theme is important. Imagine having a website with just text on it. Without themes, it looks plain and boring. Etter describes the importance of style. Having lists, pictures, and other style makes your writing more approachable. It becomes simpler to go through unlike having to go through just plain text file.
+
+
+### More resources:
+To understand how markdown works, check out this [website](https://commonmark.org/help/tutorial/).
+
+To learn and create repositories on Github, check out Quick start to [repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories).
+
+For more information on creating a website on Github, go through [Creating a Github Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+
+If you want to add different themes on your website then check out [Github Pages themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
+
+
+### Authors and Acknowledgements:
+This project is made possible by Github and Etter's book "Modern Technical writing: An Introduction to Software Documantation".
+
+### FAQs:
+1. Why should I use Github in creating the website when there are other means?
+
+    a) There are many other ways to create a static website but not all of them are as easy as Github. Also unlike the others, Github is a version control system which allows you to keep track of the files. So, if there is a mistake in your file that Github uses to create the website, you can go back to the old version easily.
+
+2. Why is my website not showing up?
+
+    a) There are many reasons as to why this is happening. Some of them are:
+    
+    1. Your repository name is not username.github.io. The website can be created with different names like resume.github.io as long as github.io is in your repository name. If so, then only the website link changes. Which would now be username/repository_name.github.io.
+    2. You have not told Github that you want a website. To solve this problem follow the instuction step number 3 above which is [3. Use Github to create a static website](###3).
