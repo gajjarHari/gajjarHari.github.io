@@ -76,4 +76,4 @@ This project is made possible by Github and Etter's book "Modern Technical writi
     a) There are many reasons as to why this is happening. Some of them are:
     
     1. Your repository name is not username.github.io. The website can be created with different names like resume.github.io as long as github.io is in your repository name. If so, then only the website link changes. Which would now be username/repository_name.github.io.
-    2. You have not told Github that you want a website. To solve this problem follow the instuction step number 3 above which is [3. Use Github to create a static website](###3).
+    2. You have not told Github that you want a website. To solve this problem follow the instuction step number 3 above which is ["Use Github to create a static website"](#3-use-github-to-create-a-static-website).
