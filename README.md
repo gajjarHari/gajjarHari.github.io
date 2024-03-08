@@ -9,27 +9,27 @@ You must be able to create a text file using Markdown. If you do not know how to
 #### 1. Use Lightweight Markup language to create a text file of your linking
 Create a text file which you want to show on the website. Use Markdown to create this file.
 
-Lightweight Markup is important as it is the key to creating a static website. The reason being static website generator will create a website for you but it does not know what to show on there. Website generators will create the website and show what you write on your text file that you supplied it with.
+Lightweight Markup is important as it is the key to creating a static website. The reason being static website generator will create a website for you, but it does not know what to show on there. Website generators will create the website and show what you write on your text file that you supplied it with.
 
-Etter talks in his book about the importance of using lightweight markup. He shows how complex it can be to write same sentences with code that can be easily writen using a lightweight markup language.
+Etter talks in his book about the importance of using lightweight markup. He shows how complex it can be to write a sentence with code that can be easily written using a lightweight markup language.
 
 What makes it greate is that it is: 
 
-* easy to learn
-* human readable and
-* requires no coding
+* Easy to learn
+* Human readable and
+* Requires no coding
 
-Markdown is a lightweight markup language. Markdown is extremly popular and widely used by static website generators. It is also quite easy to use as well. Since it is a lightweight markup language, creating a text file will be easy and fast.
+Markdown is a lightweight markup language. Markdown is extremely popular and widely used by static website generators. It is also quite easy to use as well. Since it is a lightweight markup language, creating a text file will be easy and fast.
 
 #### 2. Use Github as your version control system
 
 Create an account on Github. After that you will have to create a repository.
 
-> Note:   When creating the repository, you must name it ```username.github.io```. Replace ```username``` with your username. This is important because with this, Github recongnizes that you want to create a static website.
+> Note:   When creating the repository, you must name it ```username.github.io```. Replace ```username``` with your username. This is important because with this, Github recognizes  that you want to create a static website.
 
-You must upload the markdown file you created on this repository. Etter talks about what a version control system is in his book. He write how important a repository is to a programmer since it helps them keep track of their projects and files. Because of this, they do not have to worry about making changed to their code as they can retrieve the old data if something were to occur. Although he talks about how it is useful in writing code, it is also useful to us as well.
+You must upload the markdown file you created on this repository. Etter talks about what a version control system is in his book. He writes how important a repository is to a programmer since it helps them keep track of their projects and files. Because of this, they do not have to worry about making changed to their code as they can retrieve the old data if something were to occur. Although he talks about how it is useful in writing code, it is also useful to us as well.
 
-Once the file is uploaded and commited, we can make as many changes to the file we want. This is a static website so there is a possibility that you might want to change the content after some time. Even after these changes, if something goes wrong, we will not lose our data. We can recover it. This way you will not have to create the website from the beginning.
+Once the file is uploaded and committed, we can make as many changes we want to the file. This is a static website so there is a possibility that you might want to change the content after some time. Even after these changes, if something goes wrong, we will not lose our data. We can recover it. This way you will not have to create the website from the beginning.
 
 #### 3. Use Github to create a static website
 
@@ -47,9 +47,9 @@ This will now start to create your website. It may take few minutes to several m
 
 
 #### 4. Add a theme to your website
-Create a file named ```_config.yml```. Make sure to have the underscore _ in front of the name as shown here. Then you can go to Github pages [supported themes](https://pages.github.com/themes/) to find yourself a theme. To add the theme I used follow the steps below.
+Create a file named ```_config.yml```. Make sure to have the underscore _ in front of the name as shown here. Then you can go to Github pages [supported themes](https://pages.github.com/themes/) to find yourself a theme. To add the theme, I used following the steps below.
 
- * Once the file is created, add ```theme: jekyll-theme-modernist``` in it and then save the file by commiting. Now your file has theme to it. Similar to my website theme below
+ * Once the file is created, add ```theme: jekyll-theme-modernist``` in it and then save the file by committing. Now your file has theme to it like my website theme below.
 
 ![](files_for_README/GIFMaker_me.gif)
 
@@ -67,12 +67,12 @@ Adding a theme is important. Imagine having a website with just text on it. With
 
 
 ### Authors and Acknowledgements:
-This project is made possible by Github and Etter's book "Modern Technical writing: An Introduction to Software Documantation". Thanks to Github for providing the tools necessory to create this project. Thanks to Etter for writing his book that helped me understand the importance of each of the steps shown above.
+This project is made possible by Github and Etter's book "Modern Technical writing: An Introduction to Software Documentation". Thanks to Github for providing the tools necessary to create this project. Thanks to Etter for writing his book that helped me understand the importance of each of the steps shown above.
 
 ### FAQs:
 #### Why should I use Github in creating the website when there are other means?
 
-There are many other ways to create a static website but not all of them are as easy as Github. Also unlike the others, Github is a version control system which allows you to keep track of the files. So, if there is a mistake in your file that Github uses to create the website, you can go back to the old version easily.
+There are many other ways to create a static website but not all of them are as easy as Github. Also, unlike the others, Github is a version control system which allows you to keep track of the files. So, if there is a mistake in your file that Github uses to create the website, you can go back to the old version easily.
 
 #### Why is my website not showing up?
 
