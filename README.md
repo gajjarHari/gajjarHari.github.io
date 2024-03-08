@@ -25,7 +25,7 @@ Markdown is a lightweight markup language. Markdown is extremly popular and wide
 
 Create an account on Github. After that you will have to create a repository.
 
-> Note:   When creating the repository, you must name it ```username.github.io```. Replace ```username```.github.io with your username. This is important because with this, Github recongnizes that you want to create a static website.
+> Note:   When creating the repository, you must name it ```username.github.io```. Replace ```username``` with your username. This is important because with this, Github recongnizes that you want to create a static website.
 
 You must upload the markdown file you created on this repository. Etter talks about what a version control system is in his book. He write how important a repository is to a programmer since it helps them keep track of their projects and files. Because of this, they do not have to worry about making changed to their code as they can retrieve the old data if something were to occur. Although he talks about how it is useful in writing code, it is also useful to us as well.
 
