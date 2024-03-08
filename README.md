@@ -3,7 +3,7 @@
 1. Describe how to create a static website using Markdown and Github.
 2. Explain why the steps shows are important in creating a website.
 ### Prerequisites:
-You must be able to create a text file using Markdown. If you do not know how to create a markdown file, then go to [More resources](#More-resources:) section. A link is provided to learn how to create a Markdown file.
+You must be able to create a text file using Markdown. If you do not know how to create a markdown file, then go to ["more resources"](#More-resources:) section. A link is provided to learn how to create a Markdown file.
 ### Instuctions:
 
 #### 1. Use Lightweight Markup language to create a text file of your linking
