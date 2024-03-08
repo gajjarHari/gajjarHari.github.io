@@ -9,8 +9,8 @@ You must be able to create a text file using Markdown. If you do not know how to
 
 ### Instuctions:
 
-#### 1. Use Lightweight Markup language to create a text file of your linking
-Create a text file which you want to show on the website. Use Markdown to create this file.
+#### 1. Use Lightweight Markup language to create your resume
+Create a resume that you want to show on the website. Use Markdown to create this file.
 
 *Lightweight Markup is important as it is the key to creating a static website. The reason being static website generator will create a website for you, but it does not know what to show on there. Website generators will create the website and show what you write on your text file that you supplied it with.*
 
@@ -22,19 +22,22 @@ Create a text file which you want to show on the website. Use Markdown to create
 * *Human readable*
 * *Requires no coding*
 
-*Markdown is a lightweight markup language. Markdown is extremely popular and widely used by static website generators. It is also quite easy to use as well. Since it is a lightweight markup language, creating a text file will be easy and fast.*
+*Markdown is a lightweight markup language. Markdown is extremely popular and widely used by static website generators. It is also quite easy to use as well. Since it is a lightweight markup language, creating a resume will be easy and fast.*
 
 #### 2. Use GitHub as your version control system
 
- 1. Create an account on GitHub. After that you will have to create a repository. If you do not know how to create a repository then go to [more resources](#More-resources) section. There is a link to help you create a repository. Once that is done, upload the resume you created on this repository.
+ 1. Create an account on GitHub.
+ 2. Create a repository.
+    
+    If you do not know how to create a repository then go to [more resources](#More-resources) section. There is a link to help you create a repository. Once that is done, upload the resume you created on this repository.
 
-      > Note: When creating the repository, you must name it ```username.github.io```. Replace ```username``` with your username. This is important because with this, GitHub recognizes  that you want to create a static website.
+      > Note: When creating the repository, you must name it ```username.github.io```. Replace ```username``` with your account username. This is important because with this, GitHub recognizes  that you want to create a static website.
 
-      *Etter talks about version control systems is in his book. He writes how important a repository is to a programmer since it helps them keep track of their projects and files. Although he talks about how it is useful in writing code, it is also useful to us as well.*
+      *Etter talks about version control systems and how important it is. A version control software is important to a programmer since it helps them keep track of their projects and files. Although he talks about how it is useful for programmers, it is also useful to us as well.*
 
-      *Once the file is uploaded and committed, we can make as many changes as we want to the resume. This is a static website so there is a possibility that you might want to change the content after some time. Even after these changes, if something goes wrong, we will not lose our data. We can recover it. This way you will not have to create the website from the beginning.*
+      *Once the file is uploaded and committed, we can make as many changes as we want to the resume. There is a possibility that you might want to change the content after some time. Even after these changes, if something goes wrong, we will not lose our data. We can recover it. This way you will not have to create the website from the beginning.*
 
- 2. Use GitHub to create a static website
+ 3. Create your static website
 
       1. Once the file is uploaded, go to settings and then to pages as shown in this image.
     
@@ -48,27 +51,26 @@ Create a text file which you want to show on the website. Use Markdown to create
     
     ![](files_for_README/gif_me.gif)
 
-      This will now start to create your website. It may take few minutes to several minutes. Once it is done, you can visit your website by searching ```username.github.io```.
+      Now GitHub will start creating your website. It may take few minutes to several minutes. Once it is done, you can visit your website by searching ```username.github.io```.
 
       > Note: Make sure to change the ```username```.
 
-      *Etter writes about what makes a static site generator so greate. The site generator does everything for you. You only have to create a text file that the site generator can go through.*
+      *Etter explains what makes a static site generator so great. The site generator does everything for you. You only have to create a text file that the site generator can go through.*
 
       *It is great because:*
       * *There is nothing to install*
       * *You do not have to worry about application dependencies*
       * *Working with the website is easy*
-      * *The site create the website for you*
+      * *The site creates the website for you*
       
       *This makes sites like GitHub and many others a great tool.*
 
 #### 3. Format your resume by giving it a style
-Create a file named ```_config.yml```. Make sure to have the underscore in front of the name as shown here. Then you can go to GitHub pages [supported themes](https://pages.GitHub.com/themes/) to find yourself a theme. To add the theme I used, follow the steps below.
+1. Create a file named ```_config.yml```. Make sure to have the underscore in front of the name as shown here.
+2. Add ```theme: jekyll-theme-modernist``` in it
+3. Commit the file to confirm the changes
 
- 1. Add ```theme: jekyll-theme-modernist``` in it, then
- 2. Commit the file to confirm the changes.
-
-Now your file has theme to it like my website theme below.
+Now your file has theme to it like my website below.
 
 ![](files_for_README/GIFMaker_me.gif)
 
@@ -82,7 +84,7 @@ Now your file has theme to it like my website theme below.
 
 [GitHub Pages](https://docs.GitHub.com/en/pages/getting-started-with-GitHub-pages/creating-a-GitHub-pages-site): For more information on creating a website on GitHub.
 
-[GitHub Pages themes](https://docs.GitHub.com/en/pages/setting-up-a-GitHub-pages-site-with-jekyll/adding-a-theme-to-your-GitHub-pages-site-using-jekyll): This are the supported themes of GitHub Pages that you can use for your website.
+[GitHub Pages themes](https://docs.GitHub.com/en/pages/setting-up-a-GitHub-pages-site-with-jekyll/adding-a-theme-to-your-GitHub-pages-site-using-jekyll): These are the supported themes of GitHub Pages that you can use for your website.
 
 
 ### Authors and Acknowledgements:
