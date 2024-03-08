@@ -62,7 +62,7 @@ Create a text file which you want to show on the website. Use Markdown to create
       
       *This makes sites like GitHub and many others a great tool.*
 
-#### 4. Format your resume by giving it a style
+#### 3. Format your resume by giving it a style
 Create a file named ```_config.yml```. Make sure to have the underscore in front of the name as shown here. Then you can go to GitHub pages [supported themes](https://pages.GitHub.com/themes/) to find yourself a theme. To add the theme I used, follow the steps below.
 
  1. Add ```theme: jekyll-theme-modernist``` in it, then
