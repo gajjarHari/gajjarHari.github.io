@@ -516,6 +516,8 @@ ii  libclutter-1.0-0:amd64                     1.26.4+dfsg-4build1              
 ii  libclutter-1.0-common                      1.26.4+dfsg-4build1                     all          Open GL based interactive canvas library (common files)
 ii  libclutter-gst-3.0-0:amd64                 3.0.27-2ubuntu1                         amd64        Open GL based interactive canvas library GStreamer elements
 ii  libclutter-gtk-1.0-0:amd64                 1.8.4-4build2                           amd64        Open GL based interactive canvas library GTK+ widget
+ii  libcmark-gfm-extensions0.29.0.gfm.3:amd64  0.29.0.gfm.3-3                          amd64        CommonMark GitHub flavor gfm extension library
+ii  libcmark-gfm0.29.0.gfm.3:amd64             0.29.0.gfm.3-3                          amd64        CommonMark GitHub flavor gfm library
 ii  libcogl-common                             1.22.8-3build1                          all          Object oriented GL/GLES Abstraction/Utility Layer (common files)
 ii  libcogl-pango20:amd64                      1.22.8-3build1                          amd64        Object oriented GL/GLES Abstraction/Utility Layer
 ii  libcogl-path20:amd64                       1.22.8-3build1                          amd64        Object oriented GL/GLES Abstraction/Utility Layer
@@ -1215,6 +1217,8 @@ ii  p11-kit                                    0.24.0-6build1                   
 ii  p11-kit-modules:amd64                      0.24.0-6build1                          amd64        p11-glue proxy and trust modules
 ii  packagekit                                 1.2.5-2ubuntu2                          amd64        Provides a package management service
 ii  packagekit-tools                           1.2.5-2ubuntu2                          amd64        Provides PackageKit command-line tools
+ii  pandoc                                     2.9.2.1-3ubuntu2                        amd64        general markup converter
+ii  pandoc-data                                2.9.2.1-3ubuntu2                        all          general markup converter - data files
 ii  parted                                     3.4-2build1                             amd64        disk partition manipulator
 ii  passwd                                     1:4.8.1-2ubuntu2.2                      amd64        change and administer password and group data
 ii  patch                                      2.7.6-7build2                           amd64        Apply a diff file to an original
@@ -1434,10 +1438,8 @@ ii  usbutils                                   1:014-1build1                    
 ii  usrmerge                                   25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                                 2.37.2-4ubuntu3                         amd64        miscellaneous system utilities
 ii  uuid-runtime                               2.37.2-4ubuntu3                         amd64        runtime components for the Universally Unique ID library
-ii  vim                                        2:8.2.3995-1ubuntu2.16                  amd64        Vi IMproved - enhanced vi editor
-ii  vim-common                                 2:8.2.3995-1ubuntu2.16                  all          Vi IMproved - Common files
-ii  vim-runtime                                2:8.2.3995-1ubuntu2.16                  all          Vi IMproved - Runtime files
-ii  vim-tiny                                   2:8.2.3995-1ubuntu2.16                  amd64        Vi IMproved - enhanced vi editor - compact version
+ii  vim-common                                 2:8.2.3995-1ubuntu2.15                  all          Vi IMproved - Common files
+ii  vim-tiny                                   2:8.2.3995-1ubuntu2.15                  amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wamerican                                  2020.12.07-2                            all          American English dictionary words for /usr/share/dict
 ii  wbritish                                   2020.12.07-2                            all          British English dictionary words for /usr/share/dict
 ii  wget                                       1.21.2-2ubuntu1                         amd64        retrieves files from the web
