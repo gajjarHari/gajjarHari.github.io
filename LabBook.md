@@ -12,3 +12,6 @@
 ### Installing packages
 I Used the GUI (Ubuntu software) to install VSCode and then used VSCode to install the java jdk 21.0.2.
 After I installed VSCode, I went to VSCode extensions and through it I was able to install java.
+
+### Running a web server
+![](Screenshot.png)
